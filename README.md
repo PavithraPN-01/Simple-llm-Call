@@ -7,17 +7,11 @@ This project demonstrates a simple implementation of text generation using the H
 * **Pipeline:** Uses the Hugging Face `text-generation` pipeline for easy inference.
 * **Customization:** Configured with repetition penalties and sequence limits to ensure high-quality output.
 
-## 🛠️ Prerequisites
 
-Before running the script, ensure you have Python 3.8+ installed. You will also need to install the following dependencies:
-
-```bash
-pip install transformers torch
-
-⚡ Quick Start
+#Quick Start
 Follow these steps to run the generator on your local machine:
 
 1. Clone the repository
-'''bash
+
 git clone https://github.com/PavithraPN-01/Simple-llm-Call.git
 cd Simple-llm-Call
