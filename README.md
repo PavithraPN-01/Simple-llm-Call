@@ -1,4 +1,4 @@
-# Simple LLM Text Generation Project 🚀
+# Text Generation Project 🚀
 
 This project demonstrates a **basic Large Language Model (LLM) text generation pipeline** using the **Hugging Face Transformers library**.  
 It generates intelligent sentence continuations from a given prompt using a pre-trained language model.
