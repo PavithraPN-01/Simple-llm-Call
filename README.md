@@ -37,7 +37,7 @@ The project uses **DistilGPT-2**, a lightweight and efficient version of GPT-2.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Pavithrapn-01/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Pavithrapn-01/Simple-llm-Call.git
+   cd Simple-llm-Call
 
 
