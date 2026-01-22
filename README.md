@@ -14,3 +14,10 @@ Before running the script, ensure you have Python 3.8+ installed. You will also 
 ```bash
 pip install transformers torch
 
+⚡ Quick Start
+Follow these steps to run the generator on your local machine:
+
+1. Clone the repository
+'''bash
+git clone https://github.com/PavithraPN-01/Simple-llm-Call.git
+cd Simple-llm-Call
