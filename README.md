@@ -1,17 +1,46 @@
-# AI Text Generation with DistilGPT2
+# Simple LLM Text Generation Project 🚀
 
-This project demonstrates a simple implementation of text generation using the Hugging Face `transformers` library. It utilizes the **DistilGPT2** model—a smaller, faster, and more light-weight version of GPT-2—to generate coherent text sequences based on a provided prompt.
+This project demonstrates a **basic Large Language Model (LLM) text generation pipeline** using the **Hugging Face Transformers library**.  
+It generates intelligent sentence continuations from a given prompt using a pre-trained language model.
 
-## 🚀 Features
-* **Model:** DistilGPT2 (82M parameters).
-* **Pipeline:** Uses the Hugging Face `text-generation` pipeline for easy inference.
-* **Customization:** Configured with repetition penalties and sequence limits to ensure high-quality output.
+---
 
+## 📌 Project Overview
 
-#Quick Start
-Follow these steps to run the generator on your local machine:
+The purpose of this project is to showcase how a Large Language Model can:
+- Accept an incomplete sentence as input
+- Predict and generate meaningful text continuations
+- Produce multiple variations of generated text automatically
+
+The project uses **DistilGPT-2**, a lightweight and efficient version of GPT-2.
+
+---
+
+## 🧠 How It Works
+
+- Uses the Hugging Face `pipeline` API for text generation
+- A prompt like `"AI is the Future because"` is provided
+- The model generates multiple continuations based on learned patterns
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Hugging Face Transformers  
+- DistilGPT-2  
+- Natural Language Processing (NLP)  
+
+---
+
+## ⚙️ Installation & Setup
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/Pavithrapn-01/your-repo-name.git
+   cd your-repo-name
 
-git clone https://github.com/PavithraPN-01/Simple-llm-Call.git
-cd Simple-llm-Call
+
+
+## 📂 Project Structure
+
