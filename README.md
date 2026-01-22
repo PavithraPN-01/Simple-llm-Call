@@ -1,13 +1,16 @@
-# AI Text Generator
+# AI Text Generation with DistilGPT2
 
-A simple Python application that uses the **DistilGPT2** model from Hugging Face to generate creative text completions based on a prompt.
+This project demonstrates a simple implementation of text generation using the Hugging Face `transformers` library. It utilizes the **DistilGPT2** model—a smaller, faster, and more light-weight version of GPT-2—to generate coherent text sequences based on a provided prompt.
 
-## Description
-This project utilizes the `transformers` pipeline to perform text generation. DistilGPT2 is a distilled version of GPT-2, which is faster and lighter while maintaining much of the original model's performance.
+## 🚀 Features
+* **Model:** DistilGPT2 (82M parameters).
+* **Pipeline:** Uses the Hugging Face `text-generation` pipeline for easy inference.
+* **Customization:** Configured with repetition penalties and sequence limits to ensure high-quality output.
 
-## Installation
+## 🛠️ Prerequisites
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+Before running the script, ensure you have Python 3.8+ installed. You will also need to install the following dependencies:
+
+```bash
+pip install transformers torch
+
