@@ -41,6 +41,3 @@ The project uses **DistilGPT-2**, a lightweight and efficient version of GPT-2.
    cd your-repo-name
 
 
-
-## 📂 Project Structure
-
