@@ -1070,10 +1070,15 @@ Your support motivates me to continue building and sharing more AI and Machine L
 
 ---
 
-<p align="center"> <h3> ⭐ Thank you for visiting this repository! ⭐ </h3></p>
- <p><b> If you like this project, don't forget to leave a ⭐ on GitHub! </b></p>
- <p><b>  **Happy Learning and Happy Coding! 🚀** </b></p>
- </div>
+<p align="center">
+
+###⭐ Thank you for visiting this repository! ⭐
+
+**If you like this project, don't forget to leave a ⭐ on GitHub!**
+
+**Happy Learning and Happy Coding! 🚀**
+
+</div>
 
 
 
