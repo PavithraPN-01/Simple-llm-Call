@@ -1036,18 +1036,7 @@ My expertise spans building intelligent, AI-powered applications using modern La
 ###  🌐 Connect with Me
 
 * **GitHub:** https://github.com/PavithraPN-01
-  # 🚀 Simple LLM Text Generation using Hugging Face Transformers
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Text%20Generation-green?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative-AI-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
-
-</p>
-
+ 
 ---
 
 # 📚 Table of Contents
