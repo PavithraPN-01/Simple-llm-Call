@@ -1070,7 +1070,7 @@ Your support motivates me to continue building and sharing more AI and Machine L
 
 ---
 
-<p align="center">
+<div align="center">
 
 ###⭐ Thank you for visiting this repository! ⭐
 
